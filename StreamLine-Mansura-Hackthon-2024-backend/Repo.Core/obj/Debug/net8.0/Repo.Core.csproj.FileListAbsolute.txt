@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\Api\Repo.Core\bin\Debug\net8.0\Repo.Core.deps.json
+C:\Users\hp\source\repos\Api\Repo.Core\bin\Debug\net8.0\Repo.Core.dll
+C:\Users\hp\source\repos\Api\Repo.Core\bin\Debug\net8.0\Repo.Core.pdb
+C:\Users\hp\source\repos\Api\Repo.Core\obj\Debug\net8.0\Repo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Api\Repo.Core\obj\Debug\net8.0\Repo.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Api\Repo.Core\obj\Debug\net8.0\Repo.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\Api\Repo.Core\obj\Debug\net8.0\Repo.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Api\Repo.Core\obj\Debug\net8.0\Repo.Core.dll
+C:\Users\hp\source\repos\Api\Repo.Core\obj\Debug\net8.0\refint\Repo.Core.dll
+C:\Users\hp\source\repos\Api\Repo.Core\obj\Debug\net8.0\Repo.Core.pdb
+C:\Users\hp\source\repos\Api\Repo.Core\obj\Debug\net8.0\ref\Repo.Core.dll

@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\Api\Repo.EF\bin\Debug\net8.0\Repo.EF.deps.json
+C:\Users\hp\source\repos\Api\Repo.EF\bin\Debug\net8.0\Repo.EF.runtimeconfig.json
+C:\Users\hp\source\repos\Api\Repo.EF\bin\Debug\net8.0\Repo.EF.dll
+C:\Users\hp\source\repos\Api\Repo.EF\bin\Debug\net8.0\Repo.EF.pdb
+C:\Users\hp\source\repos\Api\Repo.EF\obj\Debug\net8.0\Repo.EF.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Api\Repo.EF\obj\Debug\net8.0\Repo.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Api\Repo.EF\obj\Debug\net8.0\Repo.EF.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Api\Repo.EF\obj\Debug\net8.0\Repo.EF.AssemblyInfo.cs
+C:\Users\hp\source\repos\Api\Repo.EF\obj\Debug\net8.0\Repo.EF.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Api\Repo.EF\obj\Debug\net8.0\Repo.EF.dll
+C:\Users\hp\source\repos\Api\Repo.EF\obj\Debug\net8.0\refint\Repo.EF.dll
+C:\Users\hp\source\repos\Api\Repo.EF\obj\Debug\net8.0\Repo.EF.pdb
+C:\Users\hp\source\repos\Api\Repo.EF\obj\Debug\net8.0\Repo.EF.genruntimeconfig.cache
+C:\Users\hp\source\repos\Api\Repo.EF\obj\Debug\net8.0\ref\Repo.EF.dll
+C:\Users\hp\source\repos\Api\Repo.EF\bin\Debug\net8.0\Repo.Core.dll
+C:\Users\hp\source\repos\Api\Repo.EF\bin\Debug\net8.0\Repo.Core.pdb
+C:\Users\hp\source\repos\Api\Repo.EF\obj\Debug\net8.0\Repo.EF.csproj.Up2Date
